@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ana": {
+      "type": "http",
+      "url": "${ANA_MCP_URL:-https://app.textql.com/mcp}"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "textql",
+  "owner": {
+    "name": "TextQL",
+    "email": "support@textql.com"
+  },
+  "plugins": [
+    {
+      "name": "ana",
+      "source": { "source": "github", "repo": "TextQLLabs/ana-claude-plugin" },
+      "description": "Ask Ana natural-language questions about your organization's data from inside Claude Code. Connects to your org's Ana MCP server over OAuth and scopes every query to your org."
+    }
+  ]
+}

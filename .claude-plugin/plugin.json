@@ -1,0 +1,10 @@
+{
+  "name": "ana",
+  "description": "Ask Ana natural-language questions about your organization's data from inside Claude Code. Connects to your org's Ana MCP server over OAuth and scopes every query to your org automatically.",
+  "version": "0.1.0",
+  "author": {
+    "name": "TextQL"
+  },
+  "homepage": "https://textql.com",
+  "license": "UNLICENSED"
+}
