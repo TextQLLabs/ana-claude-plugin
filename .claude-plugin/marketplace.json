@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "ana",
-      "source": { "source": "github", "repo": "TextQLLabs/ana-claude-plugin" },
+      "source": { "source": "github", "repo": "TextQLLabs/ana-claude-plugin", "ref": "v0.1.0" },
       "description": "Ask Ana natural-language questions about your organization's data from inside Claude Code. Connects to your org's Ana MCP server over OAuth and scopes every query to your org."
     }
   ]
